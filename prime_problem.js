@@ -7,7 +7,7 @@ for(i=1;i<=num;i++)
       count++; 
      }
  }
-if(count==5)
+if(count==2)
 {
 console.log("Prime number");
 }
